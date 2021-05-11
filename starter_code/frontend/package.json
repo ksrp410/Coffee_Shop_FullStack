@@ -28,7 +28,7 @@
     "@ionic/angular": "^4.11.10",
     "core-js": "^2.6.11",
     "jwt-decode": "^2.2.0",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "ngx-build-plus": "^10.1.1",
     "node-sass": "^4.14.1",
     "rxjs": "~6.6.0",
